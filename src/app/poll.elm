@@ -13,7 +13,7 @@ import Json.Encode exposing (encode, object, string)
 
 pollServer : String
 pollServer =
-    "api.alexrieux.fr"
+    "workshop.lastmilelink.technology:8080"
 
 
 pollId : String

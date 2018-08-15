@@ -15,7 +15,7 @@ src/app
 
 ## API
 
-- [Polls API](http://api.alexrieux.fr)
+- [Polls API](http://workshop.lastmilelink.technology:8080)
 
 ## Development instructions
 1. `npm i`
